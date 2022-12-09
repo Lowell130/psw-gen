@@ -3,10 +3,8 @@
 
     <!-- singola linea -->
     <h1 class="text-center m-3">Password Generator</h1>
-    <div class="input-group input-group-lg">
-
+    <div class="input-group input-group-lg">   
      
-        <!-- <input id="numLenght" class="form-control" type="number" v-model="config.length" size="1"> -->
     
       <button class="btn btn-outline-secondary" @click="generate()" type="button">Generate</button>
       <button class="btn btn-outline-secondary" @click.prevent="copyToClipboard" type="button">Copy</button>
