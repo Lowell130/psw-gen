@@ -3,7 +3,6 @@
 
     <!-- singola linea -->
     <h1 class="text-center m-3">Password Generator</h1>
-
     <div class="input-group input-group-lg">
 
      
