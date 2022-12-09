@@ -1,4 +1,4 @@
-# psw-gen
+# Password Generator in VUE 3
 
 ## Project setup
 ```
